@@ -1,0 +1,19 @@
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+INFO:schedule:Running job Every 0.05 minutes do job() (last run: [never], next run: 2017-05-26 09:56:31)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:schedule:Running job Every 0.05 minutes do job() (last run: 2017-05-26 09:56:31, next run: 2017-05-26 09:56:34)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:schedule:Running job Every 0.05 minutes do job() (last run: 2017-05-26 09:56:34, next run: 2017-05-26 09:56:37)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:schedule:Running job Every 0.05 minutes do job() (last run: 2017-05-26 09:56:37, next run: 2017-05-26 09:56:40)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:schedule:Running job Every 0.05 minutes do job() (last run: 2017-05-26 09:56:40, next run: 2017-05-26 09:56:43)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:schedule:Running job Every 0.05 minutes do job() (last run: 2017-05-26 09:56:43, next run: 2017-05-26 09:56:46)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:schedule:Running job Every 0.05 minutes do job() (last run: 2017-05-26 09:56:46, next run: 2017-05-26 09:56:49)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:schedule:Running job Every 0.05 minutes do job() (last run: 2017-05-26 09:56:49, next run: 2017-05-26 09:56:52)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
